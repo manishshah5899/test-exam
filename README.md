@@ -1,4 +1,4 @@
-# test-exam![Home-Page](https://user-images.githubusercontent.com/95843902/162429016-3e6c8440-826b-43d2-8a80-e048fec6317f.png)
+# test-exam![Home-Page-img](https://user-images.githubusercontent.com/95843902/162429661-2626db54-2d59-407f-b0bc-9c42c59a4c8f.png)
 
 - Make a new Magento2 theme based on Luma. **Done**
 - Integrate slick slider (https://kenwheeler.github.io/slick/) (use Responsive Display from the sliders) and add a slider that shows on all pages in the bottom but above the footer.  **Done**
